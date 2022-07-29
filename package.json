@@ -1,0 +1,23 @@
+{
+  "name": "connect-n",
+  "version": "1.0.0",
+  "description": "\"N\" is the number of pieces that need to line up in order for a player to win",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js $N"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altugdurmaz/connect-n.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/altugdurmaz/connect-n/issues"
+  },
+  "homepage": "https://github.com/altugdurmaz/connect-n#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+  
+}
